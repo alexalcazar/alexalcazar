@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Alejandro Alcazar 🧑🏻‍💻
 A software developer who loves coding, studying new technologies and enjoying good work done
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=alexalcazar&style=flat"/>
+</p>
 
 ## 🦾 Languages and Tools
 <div>

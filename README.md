@@ -34,6 +34,9 @@ A software developer who loves coding, studying new technologies and enjoying go
   <a href="https://www.linkedin.com/in/ernesto-alcazar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://script.google.com/macros/s/AKfycbw8dwto9UJdteWMGH4Pt1mqZap2TrRmFz9CM3mduKhzM__geSnN-O-9lYzYFi2it42xpw/exec">
+    <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=read.cv&logoColor=white" alt="CV Badge"/>
+  </a>
   <a href="mailto:alex.alcazar.qui@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>

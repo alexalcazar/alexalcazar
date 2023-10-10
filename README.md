@@ -1,15 +1,13 @@
 ## Hi there 👋 I'm Alejandro Alcazar 🧑🏻‍💻
 A software developer who loves coding, studying new technologies and enjoying good work done
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=alexalcazar&style=flat"/>
-</p>
 
 ## 🦾 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/87882793/184671813-e7499461-9d71-4a92-9d82-b768f98ed339.png" title="Google Apps Script" alt="Google Apps Script" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/87882793/184671813-e7499461-9d71-4a92-9d82-b768f98ed339.png" title="Google Apps Script" alt="Google Apps Script" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
